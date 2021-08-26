@@ -3,4 +3,4 @@
 To jest testowa podstrona
 ## Podtytuł
 Losowy tekst
-![alt_text](images/obrazek.png)
+![alt](images/001.jpg)
