@@ -1,4 +1,7 @@
+[Malarstwo](malarstwo.html)
+
 # Moje przyszłeportfolio
+
 
 Przykładowy tekst.
 
