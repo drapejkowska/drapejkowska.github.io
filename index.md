@@ -1,4 +1,4 @@
-[Malarstwo](malarstwo.html)
+[Malarstwo](malarstwo.html) [Rzeźba](rzezba.html)
 
 # Moje przyszłeportfolio
 
